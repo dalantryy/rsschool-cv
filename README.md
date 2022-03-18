@@ -1,2 +1,2 @@
 # rsschool-cv
-https://dalantryy.github.io/rsschool-cv/
+https://dalantryy.github.io/rsschool-cv/cv
